@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with Angular and MongoDb
 - 💬 Ask me about for AspNet WebForms,MVC, AspnetCore Mvc ?
 - 📫 How to reach me: muslumergenc@outlook.com.tr
-- 😄
